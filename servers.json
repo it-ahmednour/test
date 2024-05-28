@@ -1,0 +1,13 @@
+[
+    {
+      "HOSTNAME": "win.mega-tik.com",
+      "LOCATION": "EGYPT",
+      "FLAG": "https://raw.githubusercontent.com/FreeSSTP/server-list/main/flags/EG.png",
+      "PING": "1 ms",
+      "PORT": 443,
+      "UPTIME": "955 days",
+      "SESSIONS": 150,
+      "LINE_QUALITY": "604.75 Mbps",
+      "SCORE": 4547327
+    }
+  ]
